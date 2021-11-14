@@ -1,0 +1,7 @@
+len;Lenovo P1;4;60.33;USD
+mbp;Macbook Pro;2;100.09;GBP
+len;Lenovo P1;2;60.33;USD
+zen;Asus Zenbook;1;99.99;USD
+mbp;Macbook Pro;1;100.09;GBP
+mbp;Macbook Pro;-1;100.09;GBP
+mbp;Macbook Pro;-1;29.99;EUR
